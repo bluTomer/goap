@@ -1,6 +1,7 @@
 Goal Oriented Action Planning AI (GOAP)
 Creator: Brent Owens sploreg.com @Sploreg
 
+Cleaned up and updated for Unity2018.4.23 by Tomer Blu @bluTomer
 
 --------
 License
